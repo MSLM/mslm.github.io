@@ -4,5 +4,4 @@ baseurl: ""
 url: "http://mslm.github.io"
 
 # Build settings
-markdown: kramdown
 permalink: pretty
