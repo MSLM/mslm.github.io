@@ -3,149 +3,79 @@ layout: post
 title: "Meet and Greet"
 ---
 
-<p>I tried to take notes about all the different tools and technologies so we could have some &quot;show notes&quot; for after the meetup. I hope I caught all the different references &amp; they are generally in the order that we talked about them. Next time I'll try to take more detailed notes :) I also omitted the main technologies that we talked about such as NodeJS, HTML, CSS, PHP, etc...
-</p>
+I tried to take notes about all the different tools and technologies so we could have some &quot;show notes&quot; for after the meetup. I hope I caught all the different references &amp; they are generally in the order that we talked about them. Next time I'll try to take more detailed notes :) I also omitted the main technologies that we talked about such as NodeJS, HTML, CSS, PHP, etc...
 
-<p>Vagrant:
-<br />
+[Vagrant:](http://www.vagrantup.com/)  
 &quot;A tool for building and distributing development environments&quot;
-<br />http://www.vagrantup.com/
-</p>
 
-<p>HHVM:
-<br />
+[HHVM:](http://hhvm.com/)  
 &quot;Open-source virtual machine designed for executing programs written in Hack and PHP&quot;
-<br />http://hhvm.com/
-</p>
 
-<p>Laravel:
-<br />
+[Laravel:](http://laravel.com/)  
 &quot;A PHP Framework For Web Artisans&quot;
-<br />http://laravel.com/
-</p>
 
-<p>Laravel Forge:
-<br />
-&quot;Instant PHP Platforms On Linode, DigitalOcean, AWS, &amp; Rackspace.&quot; https://forge.laravel.com/
-</p>
+[Laravel Forge:](https://forge.laravel.com/)  
+&quot;Instant PHP Platforms On Linode, DigitalOcean, AWS, &amp; Rackspace.&quot;
 
-<p>Jade:
-<br />
+[Jade:](http://jade-lang.com/)  
 &quot;Robust, elegant, feature rich template engine for nodejs&quot;
-<br />http://jade-lang.com/
-</p>
 
-<p>Brunch:
-<br />
+[Brunch:](http://brunch.io/)  
 &quot;An ultra-fast HTML5 build tool&quot;
-<br />http://brunch.io/
-</p>
 
-<p>Grunt:
-<br />
+[Grunt:](http://gruntjs.com/)  
 &quot;The JavaScript Task Runner&quot;
-<br />http://gruntjs.com/
-</p>
 
-<p>Vi:
-<br />
+[Vi:](http://en.wikipedia.org/wiki/Vi)  
 &quot;A screen-oriented text editor originally for Unix&quot;
-<br />http://en.wikipedia.org/wiki/Vi
-</p>
 
-<p>JSFiddle:
-<br />
+[JSFiddle:](http://jsfiddle.net/)  
 &quot;Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.&quot;
-<br />http://jsfiddle.net/
-</p>
 
-<p>Plunkr:
-<br />
+[Plunkr:](http://plnkr.co/)  
 &quot;An online community for creating, collaborating on and sharing your web development ideas&quot;
-<br />http://plnkr.co/
-</p>
 
-<p>CodePen:
-<br />
+[CodePen:](http://codepen.io/)  
 &quot;A front end web development playground&quot;
-<br />http://codepen.io/
-</p>
 
-<p>Stack Overflow:
-<br />
+[Stack Overflow:](http://stackoverflow.com/)  
 &quot;Q&amp;A for professional and enthusiast programmers&quot;
-<br />http://stackoverflow.com/
-</p>
 
-<p>Mozilla 
-<br />
-eveloper Network: &quot;Information about Open Web technologies including HTML, CSS, and APIs for both Web sites and HTML5 Apps&quot; https://developer.mozilla.org/
-</p>
+[Mozilla Developer Network:](https://developer.mozilla.org/)  
+&quot;Information about Open Web technologies including HTML, CSS, and APIs for both Web sites and HTML5 Apps&quot; 
 
-<p>Doodle:
-<br />
+[Doodle:](http://doodle.com/)  
 &quot;Scheduling events, meetings, appointments&quot;
-<br />http://doodle.com/
-</p>
 
-<p>AngularJS:
-<br />
-&quot;HTML enhanced for web apps!&quot; https://angularjs.org/
-</p>
+[AngularJS:](https://angularjs.org/)  
+&quot;HTML enhanced for web apps!&quot;
 
-<p>Vaprobash:
-<br />
-&quot;Vagrant Provisioning Bash Scripts&quot; https://github.com/fideloper/Vap...
-</p>
+[Vaprobash:](https://github.com/fideloper/Vaprobash)  
+&quot;Vagrant Provisioning Bash Scripts&quot;
 
-<p>Chef:
-<br />
+[Chef:](http://www.getchef.com/chef/)  
 &quot;An automation platform that transforms infrastructure into code&quot;
-<br />http://www.getchef.com/chef/
-</p>
 
-<p>Puppet:
-<br />
+[Puppet:](http://puppetlabs.com/puppet/wh...)  
 &quot;A declarative, model-based approach to IT automation&quot;
-<br />http://puppetlabs.com/puppet/wh...
-</p>
 
-<p>Ansible:
-<br />
+[Ansible:](http://www.ansible.com/home)  
 &quot;The simplest way to automate IT&quot;
-<br />http://www.ansible.com/home
-</p>
 
-<p>protobox:
-<br />
+[protobox:](http://getprotobox.com/)  
 &quot;A layer on top of vagrant and a web GUI to setup virtual machines for web development&quot;
-<br />http://getprotobox.com/
-</p>
 
-<p>Ember:
-<br />
+[Ember:](http://emberjs.com/)  
 &quot;A framework for creating ambitious web applications&quot;
-<br />http://emberjs.com/
-</p>
 
-<p>Netbeans:
-<br />
-&quot;An IDE for quickly and easily develop desktop, mobile and web applications with Java, HTML5, PHP, C/C++ and more&quot; https://netbeans.org/
-</p>
+[Netbeans:](https://netbeans.org/)  
+&quot;An IDE for quickly and easily develop desktop, mobile and web applications with Java, HTML5, PHP, C/C++ and more&quot; 
 
-<p>PHPStorm:
-<br />
+[PHPStorm:](http://www.jetbrains.com/phpstorm)  
 PHP IDE
-<br />http://www.jetbrains.com/phpsto...
-</p>
 
-<p>Coda:
-<br />
-Web Development IDE https://panic.com/coda/
-</p>
+[Coda:](https://panic.com/coda/)  
+Web Development IDE 
 
-<p>Sublime Text:
-<br />
+[Sublime Text:](http://www.sublimetext.com/)  
 &quot;A sophisticated text editor for code, markup and prose.&quot;
-<br />http://www.sublimetext.com/ 
-</p>
