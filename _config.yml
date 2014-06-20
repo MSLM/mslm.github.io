@@ -6,3 +6,4 @@ url: "http://mslm.github.io"
 
 # Build settings
 permalink: pretty
+markdown: kramdown
