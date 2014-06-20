@@ -1,6 +1,7 @@
 # Site settings
 title: "Modesto Scripting Language Meetup"
-baseurl: ""
+description: "Modesto Scripting Language Meetup"
+baseurl: "http://mslm.github.io"
 url: "http://mslm.github.io"
 
 # Build settings
