@@ -146,5 +146,6 @@ https://www.ayera.com/hosting/datacenters/
 "Software architectural pattern for implementing user interfaces"
 ![](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/500px-MVC-Process.svg.png)
 
-Samsung 24 SSD RAID 
+Samsung 24 SSD RAID   
+
 <iframe width="560" height="315" src="http://www.youtube.com/embed/96dWOEa4Djs" frameborder="0" allowfullscreen="allowfullscreen"> </iframe>
