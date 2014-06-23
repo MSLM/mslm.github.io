@@ -5,5 +5,5 @@ baseurl: ""
 url: "http://mslm.github.io"
 
 # Build settings
-permalink: pretty
+permalink: /:categories/:year/:month/:title/
 markdown: kramdown
