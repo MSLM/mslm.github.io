@@ -2,6 +2,8 @@
 layout: post
 ---
 
+Special thanks to [Neil Holcomb](https://twitter.com/mntbkr) for hosting this meetup.
+
 [Grunt:](http://gruntjs.com/)  
 "The JavaScript Task Runner"
 
