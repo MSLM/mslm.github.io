@@ -226,6 +226,10 @@ a:visited { color: #205caa; }
 .post-content ul,
 .post-content ol { padding-left: 20px; }
 
+.post img {
+  width: 35px;
+  height: 35px;
+}
 .post pre,
 .post code {
   border: 1px solid #d5d5e9;
