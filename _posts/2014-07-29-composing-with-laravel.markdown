@@ -41,7 +41,7 @@ More info, definitions, etc:
 [Backend vs frontend](http://skillcrush.com/2012/04/17/frontend-vs-backend-3/)  
 [API](http://en.wikipedia.org/wiki/Application_programming_interface)  
 [JSON](http://json.org/)  
-[PSR-0](http://www.php-fig.org/psr/psr-0/) 
+[PSR-0](http://www.php-fig.org/psr/psr-0/)  
 [ORM](http://en.wikipedia.org/wiki/Object-relational_mapping)  
 [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  
 
